@@ -1,3 +1,5 @@
+# Documentation: https://docs.google.com/document/d/1e4Yn5IOpt0t3U2XgYJBWtCfcslDfM9H905cwiuVnYvc/edit?tab=t.0
+
 # Pure Pursuit Path Tracking
 
 ROS 2 Jazzy project for recording a reference path, autonomously following it with Pure Pursuit, and evaluating tracking performance.
