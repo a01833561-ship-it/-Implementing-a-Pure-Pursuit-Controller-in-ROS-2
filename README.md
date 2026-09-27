@@ -2,6 +2,11 @@
 
 ROS 2 Jazzy project for recording a reference path, autonomously following it with Pure Pursuit, and evaluating tracking performance.
 
+Prerequisites: 
+Download prius_bringup folder, create a src/ directory.
+Installing pandas and matplotlib: 
+`$ Bash sudo apt update sudo apt install python3-pandas python3-matplotlib -y`
+
 ## Step 1: Record Reference Path
 
 ### Terminal 1: Launch Gazebo Simulation
